@@ -38,7 +38,7 @@ PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```ini
 ## Download the Llama 2 Model:
 
-llama-2-7b-chat.ggmlv3.q4_0.bin
+llama-2-7b-chat.ggmlv3.q2_K.bin
 
 
 ## From the following link:
